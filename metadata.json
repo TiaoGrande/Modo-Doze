@@ -1,0 +1,6 @@
+{
+  "name": "Modo Doze",
+  "description": "Utilitário enxuto de Modo Doze Definitivo com Shizuku e ADB, janelas de manutenção periódica, controle de conexões e hibernação profunda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
